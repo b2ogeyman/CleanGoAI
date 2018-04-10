@@ -11,5 +11,3 @@ If you wish to play against a more sophisticated version, which uses search tree
 To do this, acquire pregenerated connections from [this Google Drive](https://drive.google.com/drive/folders/1uBrdv2Taka41yfc5b2lFRQPH30UjUOB0?usp=sharing) (download into the same directory as other files).
 
 Then you can play go against the network by running `python3 play_long.py`.
-
-Requirements: Numpy and Tensorflow need to be installed. Tested with tensorflow 1.2.0, numpy 1.13.0 and python 3.6.1. 
